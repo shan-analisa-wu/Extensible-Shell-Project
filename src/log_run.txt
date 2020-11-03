@@ -1,0 +1,7 @@
+Loading student-plugins/jfdenton+sfranklin/runners//jfdenton+sfranklin_runners.so ...done.
+Plugin 'runners' initialized...
+[?1034hesh> runnersrunners
+
+esh
+exec1_test_for_runners_plugin
+esh> 
